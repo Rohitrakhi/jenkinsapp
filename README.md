@@ -1,2 +1,2 @@
 # jenkinsapp
-smaple project
+sample jenkins project for fresher
